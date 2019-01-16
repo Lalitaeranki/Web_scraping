@@ -24,4 +24,4 @@ Use MongoDB with Flask templating to create a new HTML page that displays all of
 ## Skills
 Python, Flask, MongoDB, PyMongo, Pandas, Splinter, BeautifulSoup, HTML, CSS, Bootstrap, Heroku
 
-![https://github.com/Lalitaeranki/Web_scraping/blob/master/mars.png]
+![alt text](https://github.com/Lalitaeranki/Web_scraping/blob/master/mars.png)
